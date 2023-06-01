@@ -1,13 +1,14 @@
 /* Estilos generales */
 body {
     font-family: 'Roboto', sans-serif;
-    margin: 0;
+    margin: 20px;
     padding: 0;
+    background-color: black;
   }
   
   .Post {
-    max-width: 600px;
-    margin: 0 auto;
+    max-width: 400px;
+    margin: 0px auto;
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
@@ -63,6 +64,7 @@ body {
   
   .fa-bookmark-o {
     color: #333;
+    margin-left: auto;
   }
   
   .fa-ellipsis-v {
