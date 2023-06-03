@@ -47,12 +47,12 @@ body {
   
   .text-1 {
     margin-bottom: 10px;
-    font-size: 13px
+    font-size: 13px;
   }
   
   .text-2 {
     color: hsl(0, 1%, 42%);
-    font-size: 13px
+    font-size: 13px;
   }
   
   /* Estilos de FontAwesome */
